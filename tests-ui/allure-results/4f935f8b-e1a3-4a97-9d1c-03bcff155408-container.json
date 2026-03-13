@@ -1,0 +1,1 @@
+{"uuid":"4f935f8b-e1a3-4a97-9d1c-03bcff155408","name":"tests.ui.QuestionnaireE2ETest","children":["bfcefb25-9fad-4600-bba5-ba6813275de7"],"befores":[{"name":"initSelenideConfig","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1773340993550,"stop":1773340998595}],"afters":[],"start":1773340993503,"stop":1773341020999}
